@@ -24,7 +24,7 @@ It means that the application itself is not responsible for rendering the end pa
 
 ### Magento specific
 
-Nothing just yet. Please contribute! Knowledge about this topic is sparse, so we're collecting it all here.
+- https://alankent.me/2016/12/14/headless-magento-and-extensions/ - Alan Kent (Magento Architect) personal thoughts on headless Magento 2.
 
 ### Example shops that have been implemented headlessly
 
