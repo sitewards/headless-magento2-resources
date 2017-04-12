@@ -26,6 +26,9 @@ It means that the application itself is not responsible for rendering the end pa
 
 Nothing just yet. Please contribute! Knowledge about this topic is sparse, so we're collecting it all here.
 
+#### Magento 2 API
+- CMS Api In Mage2 http://davidmanners.de/cms-api-in-mage2
+
 ### Example shops that have been implemented headlessly
 
 
