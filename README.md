@@ -4,7 +4,7 @@
 
 ### What is this?
 
-It's a list of material about consuming Magento 2 in another application, for example a single page web application, progressive eb app or even mobile application
+It's a list of material about consuming Magento 2 in another application, for example a single page web application, progressive web app or even mobile application
 
 ### What is Magento 2
 
