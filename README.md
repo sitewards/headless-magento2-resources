@@ -21,6 +21,7 @@ It means that the application itself is not responsible for rendering the end pa
 ### General Headless Applications
 
 - https://developers.google.com/web/fundamentals/architecture/app-shell - A description of the application shell architecture; a common design for headless applications.
+- https://shop.polymer-project.org/ - An example shop implementing a Polymer based application shell
 
 ### Magento specific
 
@@ -30,6 +31,7 @@ It means that the application itself is not responsible for rendering the end pa
 - CMS Api In Mage2 http://davidmanners.de/cms-api-in-mage2
 - Brainstorming repo for improving the Mage2 API to make headless happen https://github.com/ishakhsuvarov/going-headless
 - PHP wrapper for Magento 2 APIs https://github.com/KickAssCommerce/magesdk
+
 ### Example shops that have been implemented headlessly
 
 
