@@ -34,4 +34,4 @@ It means that the application itself is not responsible for rendering the end pa
 
 ### Example shops that have been implemented headlessly
 - www.mamasandpapas.ae
-- https://www.ounass.com/
+- www.ounass.com/
