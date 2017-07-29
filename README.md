@@ -33,6 +33,5 @@ It means that the application itself is not responsible for rendering the end pa
 - PHP wrapper for Magento 2 APIs https://github.com/KickAssCommerce/magesdk
 
 ### Example shops that have been implemented headlessly
-
-
-Nothing just yet. Please contribute! Knowledge about this topic is sparse, so we're collecting it all here.
+- www.mamasandpapas.ae
+- https://www.ounass.com/
